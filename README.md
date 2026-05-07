@@ -1,6 +1,7 @@
-# Snake 🐍🐍🐍
+# Activity 2. Snake Game 🐍🐍🐍
 
 Snake game implemented in python
+
 [Original code](http://www.grantjenks.com/docs/freegames/snake.html)
 
 - New Features:
