@@ -1,8 +1,50 @@
-# Activity 2. Snake Game 🐍🐍🐍
+# Snake Game Project
 
-Snake game implemented in python
+Modified version of the classic Snake game using Python Turtle and FreeGames.
 
-[Original code](http://www.grantjenks.com/docs/freegames/snake.html)
+## Features Added
+- Random moving food
+- Food stays inside the window
+- Random snake colors
+- Random food colors
+- Snake and food always have different colors
+- Red color excluded
 
-- New Features:
-  - The food can move randomly one step at a time and must not leave the window
+## Technologies
+- Python 3
+- Turtle Graphics
+- FreeGames
+- Git & GitHub
+
+## Installation
+
+Install FreeGames:
+
+```bash
+pip install freegames
+```
+
+Or:
+
+```bash
+pip3 install freegames
+```
+
+## Run the Game
+
+```bash
+python3 snake.py
+```
+
+## Controls
+
+| Key | Action |
+|------|--------|
+| ↑ | Move Up |
+| ↓ | Move Down |
+| ← | Move Left |
+| → | Move Right |
+
+## Developers
+- Alan
+- Uriel
